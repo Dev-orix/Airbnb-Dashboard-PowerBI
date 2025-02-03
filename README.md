@@ -1,10 +1,4 @@
-
-# Airbnb Dashboard
-
-A brief description of what this project does and who it's for
-
-
-## Project Summary
+# Project Summary
 Dashboard analyzing the Airbnb property market in Los Angeles.
 
 ## Skills Used
